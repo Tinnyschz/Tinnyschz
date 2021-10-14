@@ -4,7 +4,7 @@
 - ⚜️ "Uma vez escoteiro, sempre escoteiro"
 <div align="center">
   <a href="https://github.com/Tinnyschz">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Tinnyschz&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Tinnyschz&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="105em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tinnyschz&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   
