@@ -1,6 +1,5 @@
 ##
 - 📚 Estudante do IFSP Campus Pirituba
-- 🌱 Iniciando os estudos de Python
 - ⚜️ "Uma vez escoteiro, sempre escoteiro"
 <div align="center">
   <a href="https://github.com/Tinnyschz">
