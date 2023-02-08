@@ -7,12 +7,12 @@
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tinnyschz&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   
-  <div style="display: inline_block"><br>
+ <!-- <div style="display: inline_block"><br>
   <img align="center" alt="Tinny-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Tinny-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Tinny-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Tinny-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    
+    -->
   <img align="right" alt="Tinny-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/898246525392666744/898246683861852241/output_xKqCqs.gif">
 </div>
   
