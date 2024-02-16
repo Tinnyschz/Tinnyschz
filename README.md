@@ -1,5 +1,6 @@
 ##
-- 📚 Estudante do IFSP Campus Pirituba
+- 📚 Formada no IFSP Campus Pirituba
+- 💻 Cursando Sistemas de Informação
 - ⚜️ "Uma vez escoteiro, sempre escoteiro"
 <div align="center">
   <a href="https://github.com/Tinnyschz">
