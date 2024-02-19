@@ -1,6 +1,6 @@
 ##
-- 📚 Formada no IFSP Campus Pirituba
 - 💻 Cursando Sistemas de Informação
+- 📚 Formada no IFSP Campus Pirituba
 - ⚜️ "Uma vez escoteiro, sempre escoteiro"
 <div align="center">
   <a href="https://github.com/Tinnyschz">
