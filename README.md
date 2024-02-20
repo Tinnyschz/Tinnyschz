@@ -1,5 +1,5 @@
 ##
-- 💻 Cursando Sistemas de Informação
+- 💻 Cursando Análise e Desenvolvimento de Sistemas
 - 📚 Formada no IFSP Campus Pirituba
 - ⚜️ "Uma vez escoteiro, sempre escoteiro"
 <div align="center">
